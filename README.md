@@ -1,11 +1,11 @@
 ### Hi there 👋 
 
 My name is Karla Garcia and I'm software engineer located in Mexico City.
-* 🔭 I’m currently working for Honeywell Intelligrated as Software Eng Associate Trainer
+* 🔭 I’m currently working for Amazon Audible as Support Engineer IV
 
 ### Skills
 * Most of my experience is based on automation of distribution centers in United States.
-* I have worked for almost 4 years using C# and SQL.
+* I have worked for almost 6 years using C# and SQL.
 * Critical thinking, decision-making and problem solving skills
 
 ### Contact
